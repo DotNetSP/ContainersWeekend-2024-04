@@ -2,14 +2,19 @@
 Fotos e informações gerais sobre o evento "Containers Weekend ", realizado em 06/04/2024 na cidade de São Paulo-SP.
 
 Organizadores:
-- **Renato Groffe (Microsoft MVP, Docker Captain, MTAC)**
+- **Renato Groffe (Microsoft MVP, MTAC)**
 - **Milton Camara Gomes (Microsoft MVP, MTAC)**
 - **Atila Olivi (SENAI)**
 
 Número de participantes: **54 participantes**
 
+Título da apresentação: **Kubernetes: uma visão geral - Do Pod ao Deployment**
 
-Tecnologias abordadas: **DEFINIR**
+Palestrantes:
+- **Renato Groffe (Microsoft MVP, MTAC)**
+- **Milton Camara Gomes (Microsoft MVP, MTAC)**
+
+Tecnologias abordadas: **Docker, Kubernetes, KEDA, Azure Kubernetes Service, Linux, Azure App Service, Azure Container Registry, Azure Container Instances, Azure Container Apps, .NET, ASP.NET Core...**
 
 Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações.
 
