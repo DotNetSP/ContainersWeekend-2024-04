@@ -14,7 +14,7 @@ Palestrantes:
 - **Renato Groffe (Microsoft MVP, MTAC)**
 - **Milton Camara Gomes (Microsoft MVP, MTAC)**
 
-Tecnologias abordadas: **Docker, Kubernetes, KEDA, Azure Kubernetes Service, Linux, Azure App Service, Azure Container Registry, Azure Container Instances, Azure Container Apps, .NET, ASP.NET Core...**
+Tecnologias abordadas: **Docker, Kubernetes, KEDA, Helm, Azure Kubernetes Service, Linux, Azure App Service, Azure Container Registry, Azure Container Instances, Azure Container Apps, .NET, ASP.NET Core, k9s, Visual Studio Code...**
 
 Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações.
 
