@@ -8,6 +8,9 @@ Organizadores:
 
 Número de participantes: **54 participantes**
 
+
+Tecnologias abordadas: **DEFINIR**
+
 Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações.
 
 Este evento foi uma parceria entre a comunidade [**.NET SP**](https://www.meetup.com/dotnet-Sao-Paulo/) e a [**Escola Senai Suíço-Brasileira Paulo Ernesto Tolle**](https://suicobrasileira.sp.senai.br/).
@@ -17,6 +20,8 @@ Formulário utilizado para inscrições: [**Sympla**](https://www.sympla.com.br/
 Local: Escola SENAI Suíço-Brasileira Paulo Ernesto Tolle - Rua Bento Branco de Andrade Filho, 379 - Santo Amaro - São Paulo/SP - CEP 04757-000
 
 ---
+
+![Banner do evento](img/banner.png)
 
 ![Renato e Milton palestrando](img/c-01.jpg)
 
